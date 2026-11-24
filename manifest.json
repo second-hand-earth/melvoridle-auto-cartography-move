@@ -1,0 +1,4 @@
+{
+    "namespace": "autoCartographyMove",
+    "setup": "auto_cartography_move_setup.mjs"
+}
